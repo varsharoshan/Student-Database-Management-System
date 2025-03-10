@@ -17,7 +17,6 @@ Here is how the Exit button works:<br />
 ![Screenshot (48)](https://user-images.githubusercontent.com/45651397/78637910-f7898a80-78c8-11ea-8f47-44dba9b0ae74.png)
  <br />
 If we press 'Yes'  it will exit the process and if we press 'No' it will return to process.<br />
-This project was undertaken under the guidance of Dr. Brij Bihari Dubey of the Database Management Systems.<br />
 Language used: Python 3<br />
 Query Language used: Sqlite 3<br />
 Library:Tkinter<br />
